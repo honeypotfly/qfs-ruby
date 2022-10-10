@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
 gem 'simplecov', require: false, group: :test
-gem 'json', '1.8.3'
+gem 'json', '2.6.2'
 
 gemspec
